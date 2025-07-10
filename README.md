@@ -28,19 +28,19 @@ Trend Finder → Content Finder → Blog Writer → JSON Blog Output
 
 ### 1. Fetching Trending Topics from Google Trends
 
-![Trending Topics Screenshot](Images\Image1.png)
+![Trending Topics Screenshot](Images/Image1.png)
 
 ---
 
 ### 2. Scraping Content from Multiple Sources
 
-![Content Search Screenshot](Images\Image2.png)
+![Content Search Screenshot](Images/Image2.png)
 
 ---
 
 ### 3. Generated Blog Output in JSON Format
 
-![Blog Output Screenshot](Images\Image3.png)
+![Blog Output Screenshot](Images/Image3.png)
 
 ---
 
