@@ -23,6 +23,7 @@ The system is built using a **sequential multi-agent architecture**, where each 
 Trend Finder → Content Finder → Blog Writer → JSON Blog Output
 
 ````
+> _Note: Enter your API Key here --> lead_whats_agent/.env_
 
 ## 🖼️ Workflow Screenshots
 
